@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MOVIE.Pages.FAQView"
+    BackgroundColor="White">
+    <StackLayout>
+        <Label Text="Întrebari frecvente"  HorizontalTextAlignment="Center" FontSize="Medium"
+                   HorizontalOptions="FillAndExpand" Margin="5" TextColor="#152238" />
+
+        <CollectionView x:Name="faqCollectionView" 
+                                 VerticalOptions="Center"   
+                                 HorizontalOptions="Center"   
+                                 BackgroundColor="#F9F9F9"  
+                                 EmptyView="No items match your filter."  
+                                 Margin="10">
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout BackgroundColor="White" Padding="10">
+                        <Frame BorderColor="LightBlue" CornerRadius="15" HasShadow="True" Padding="5">
+                            <Grid Padding="5" Margin="2">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <StackLayout Orientation="Vertical">
+                                    <Label Text="{Binding Question}" TextColor="#152238" HorizontalTextAlignment="Start" VerticalOptions="CenterAndExpand" FontAttributes="Bold" FontSize="17"/>
+                                    <Label Text="{Binding Answer}" TextColor="#23395d"/>
+                                </StackLayout>
+                            </Grid>
+                        </Frame>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+
+</ContentPage>

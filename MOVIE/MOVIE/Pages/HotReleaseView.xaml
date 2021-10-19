@@ -1,0 +1,54 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:MOVIE.Converters"
+             x:Class="MOVIE.Pages.HotReleaseView"
+             BackgroundColor="#152238">
+    <ContentPage.Resources>
+        <converters:ImageConverter x:Key="ImageConverter"/>
+    </ContentPage.Resources>
+    <StackLayout>
+        <Label Text="Ultimele filme apărute în cinema" TextColor="OrangeRed" HorizontalTextAlignment="Center" FontSize="Medium"
+                   HorizontalOptions="FillAndExpand" Margin="5" />
+        <CollectionView x:Name="collectionView"  
+                                 VerticalOptions="Center"   
+                                 HorizontalOptions="Center"   
+                                 BackgroundColor="#F9F9F9"  
+                                 EmptyView="No items match your filter."  
+                                 Margin="10">
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout BackgroundColor="#152238" Padding="5">
+                        <Frame BorderColor="LightGray" BackgroundColor="#23395d" CornerRadius="15" HasShadow="True" Padding="5">
+                            <Grid Padding="5" Margin="2">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <StackLayout Orientation="Horizontal">
+                                    <Image Source="{Binding PosterPath, Converter={StaticResource ImageConverter}}" WidthRequest="150" HeightRequest="200" VerticalOptions="Start"/>
+                                    <StackLayout Orientation="Vertical" Margin="2">
+                                        <Label Text="{Binding OriginalTitle}" TextColor="OrangeRed" HorizontalTextAlignment="Start" VerticalOptions="CenterAndExpand" FontAttributes="Bold" FontSize="18"/>
+                                        <Label Text="{Binding Overview}" TextColor="LightGray"/>
+                                        <Label Text="Release Date: " TextColor="OrangeRed" FontAttributes="Bold" />
+                                        <Label Text="{Binding ReleaseDate, StringFormat='{0:dd.MM.yyyy}'}" TextColor="LightGray" HorizontalTextAlignment="Start"/>
+                                        <Label Text="Genre: " TextColor="OrangeRed" FontAttributes="Bold" />
+                                        <Label Text="{Binding GenreFormat}" TextColor="LightGray"/>
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text="Score: " TextColor="OrangeRed" FontAttributes="Bold" />
+                                            <Label Text="{Binding VoteAverage}" TextColor="LightGray"/>
+                                        </StackLayout>
+                                    </StackLayout>
+                                </StackLayout>
+
+                            </Grid>
+                        </Frame>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+
+</ContentPage>

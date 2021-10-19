@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:forms="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             x:Class="MOVIE.Pages.GraphicMovieView"
+             BackgroundColor="White">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="5">
+                <Label Text="Top 4 filme aparute in cinema"  HorizontalTextAlignment="Center" FontSize="Medium"
+                   HorizontalOptions="FillAndExpand" Margin="5" TextColor="#152238"/>
+                <Picker x:Name="chartPicker" ItemsSource="{Binding Chart}" 
+                        ItemDisplayBinding="{Binding ChartName}" SelectedIndexChanged="Picker_SelectedIndexChanged" 
+                        TextColor="OrangeRed" FontAttributes="Bold">
+                </Picker>
+                <forms:ChartView x:Name="Chart" HeightRequest="300"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
