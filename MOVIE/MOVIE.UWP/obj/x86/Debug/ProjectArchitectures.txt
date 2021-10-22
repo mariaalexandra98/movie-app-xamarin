@@ -1,1 +1,1 @@
-C:\Users\Maria\Desktop\pdm project final\movie-app-xamarin\MOVIE\MOVIE.UWP\MOVIE.UWP.csproj;x86
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.UWP\MOVIE.UWP.csproj;x86

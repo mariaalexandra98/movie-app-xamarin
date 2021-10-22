@@ -239,7 +239,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.6.1": {
+      "Xamarin.Essentials/1.7.0": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -256,7 +256,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2012": {
+      "Xamarin.Forms/5.0.0.2196": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -398,8 +398,8 @@
           "Microcharts.Forms": "0.9.5.9",
           "Newtonsoft.Json": "13.0.1",
           "Plugin.UserDialogs": "1.0.0",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2012",
+          "Xamarin.Essentials": "1.7.0",
+          "Xamarin.Forms": "5.0.0.2196",
           "Xamarin.Forms.BehaviorsPack": "3.0.0",
           "sqlite-net-pcl": "1.8.116"
         },
@@ -631,7 +631,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.6.1": {
+      "Xamarin.Essentials/1.7.0": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -648,7 +648,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2012": {
+      "Xamarin.Forms/5.0.0.2196": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -790,8 +790,8 @@
           "Microcharts.Forms": "0.9.5.9",
           "Newtonsoft.Json": "13.0.1",
           "Plugin.UserDialogs": "1.0.0",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2012",
+          "Xamarin.Essentials": "1.7.0",
+          "Xamarin.Forms": "5.0.0.2196",
           "Xamarin.Forms.BehaviorsPack": "3.0.0",
           "sqlite-net-pcl": "1.8.116"
         },
@@ -1026,7 +1026,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.6.1": {
+      "Xamarin.Essentials/1.7.0": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -1043,7 +1043,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2012": {
+      "Xamarin.Forms/5.0.0.2196": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -1185,8 +1185,8 @@
           "Microcharts.Forms": "0.9.5.9",
           "Newtonsoft.Json": "13.0.1",
           "Plugin.UserDialogs": "1.0.0",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2012",
+          "Xamarin.Essentials": "1.7.0",
+          "Xamarin.Forms": "5.0.0.2196",
           "Xamarin.Forms.BehaviorsPack": "3.0.0",
           "sqlite-net-pcl": "1.8.116"
         },
@@ -1421,7 +1421,7 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xamarin.Essentials/1.6.1": {
+      "Xamarin.Essentials/1.7.0": {
         "type": "package",
         "dependencies": {
           "System.Numerics.Vectors": "4.5.0"
@@ -1438,7 +1438,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/5.0.0.2012": {
+      "Xamarin.Forms/5.0.0.2196": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -1580,8 +1580,8 @@
           "Microcharts.Forms": "0.9.5.9",
           "Newtonsoft.Json": "13.0.1",
           "Plugin.UserDialogs": "1.0.0",
-          "Xamarin.Essentials": "1.6.1",
-          "Xamarin.Forms": "5.0.0.2012",
+          "Xamarin.Essentials": "1.7.0",
+          "Xamarin.Forms": "5.0.0.2196",
           "Xamarin.Forms.BehaviorsPack": "3.0.0",
           "sqlite-net-pcl": "1.8.116"
         },
@@ -2129,10 +2129,10 @@
         "version.txt"
       ]
     },
-    "Xamarin.Essentials/1.6.1": {
-      "sha512": "gG1Bp4j4bpJQ0dp9MeBJQJ9c8xULauIlhc7Cx5Qw4J2K1c+4Glq5n+gkb9Pm0UA/CevXVqLK5ZXmZkuYI52FgA==",
+    "Xamarin.Essentials/1.7.0": {
+      "sha512": "xfUJNxtfMC05VBej7fVUg6Zd9VwM2kqW9LH0tcrSA6IsBTl0EsIGkYUOz1BoKT2rseWW8o3kTi5WH/yZV4GgJw==",
       "type": "package",
-      "path": "xamarin.essentials/1.6.1",
+      "path": "xamarin.essentials/1.7.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2141,15 +2141,6 @@
         "lib/monoandroid10.0/Xamarin.Essentials.dll",
         "lib/monoandroid10.0/Xamarin.Essentials.pdb",
         "lib/monoandroid10.0/Xamarin.Essentials.xml",
-        "lib/monoandroid80/Xamarin.Essentials.dll",
-        "lib/monoandroid80/Xamarin.Essentials.pdb",
-        "lib/monoandroid80/Xamarin.Essentials.xml",
-        "lib/monoandroid81/Xamarin.Essentials.dll",
-        "lib/monoandroid81/Xamarin.Essentials.pdb",
-        "lib/monoandroid81/Xamarin.Essentials.xml",
-        "lib/monoandroid90/Xamarin.Essentials.dll",
-        "lib/monoandroid90/Xamarin.Essentials.pdb",
-        "lib/monoandroid90/Xamarin.Essentials.xml",
         "lib/netstandard1.0/Xamarin.Essentials.dll",
         "lib/netstandard1.0/Xamarin.Essentials.pdb",
         "lib/netstandard1.0/Xamarin.Essentials.xml",
@@ -2176,14 +2167,14 @@
         "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
         "lib/xamarinwatchos10/Xamarin.Essentials.xml",
         "readme.txt",
-        "xamarin.essentials.1.6.1.nupkg.sha512",
+        "xamarin.essentials.1.7.0.nupkg.sha512",
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/5.0.0.2012": {
-      "sha512": "Rqc6xvWR/sf+Db5+qRCFmuYTWVp04QWRfwPto2/JHbShSy4Ed53Q2jpoFzsoloXkJA6saD236PlaWAhT6vI4gw==",
+    "Xamarin.Forms/5.0.0.2196": {
+      "sha512": "zSXDiZukojtEBmZKUUG1yYBwlB9tI8JLPkc6n+Sm1PAX01QyzErWE9AaFJgP7usyoGHn92l4HnQF7A+/MPI6VA==",
       "type": "package",
-      "path": "xamarin.forms/5.0.0.2012",
+      "path": "xamarin.forms/5.0.0.2196",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2392,7 +2383,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.5.0.0.2012.nupkg.sha512",
+        "xamarin.forms.5.0.0.2196.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -2419,8 +2410,8 @@
       "MOVIE >= 1.0.0",
       "Microcharts.Forms >= 0.9.5.9",
       "Newtonsoft.Json >= 13.0.1",
-      "Xamarin.Essentials >= 1.6.1",
-      "Xamarin.Forms >= 5.0.0.2012",
+      "Xamarin.Essentials >= 1.7.0",
+      "Xamarin.Forms >= 5.0.0.2196",
       "Xamarin.Forms.BehaviorsPack >= 3.0.0",
       "sqlite-net-pcl >= 1.8.116"
     ]
@@ -2433,11 +2424,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE.iOS\\MOVIE.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE.iOS\\MOVIE.iOS.csproj",
       "projectName": "MOVIE.iOS",
-      "projectPath": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE.iOS\\MOVIE.iOS.csproj",
+      "projectPath": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE.iOS\\MOVIE.iOS.csproj",
       "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2460,8 +2451,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj": {
-              "projectPath": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj"
+            "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj": {
+              "projectPath": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj"
             }
           }
         }
@@ -2480,11 +2471,11 @@
           },
           "Xamarin.Essentials": {
             "target": "Package",
-            "version": "[1.6.1, )"
+            "version": "[1.7.0, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[5.0.0.2012, )"
+            "version": "[5.0.0.2196, )"
           },
           "Xamarin.Forms.BehaviorsPack": {
             "target": "Package",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\MOVIE.Android.csproj": {}
+    "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\MOVIE.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\MOVIE.Android.csproj": {
+    "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\MOVIE.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\MOVIE.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\MOVIE.Android.csproj",
         "projectName": "MOVIE.Android",
-        "projectPath": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\MOVIE.Android.csproj",
+        "projectPath": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\MOVIE.Android.csproj",
         "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\obj\\",
+        "outputPath": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj": {
-                "projectPath": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj"
+              "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj": {
+                "projectPath": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj"
               }
             }
           }
@@ -58,11 +58,11 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.6.1, )"
+              "version": "[1.7.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2012, )"
+              "version": "[5.0.0.2196, )"
             },
             "Xamarin.Forms.BehaviorsPack": {
               "target": "Package",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj": {
+    "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj",
+        "projectUniqueName": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj",
         "projectName": "MOVIE",
-        "projectPath": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj",
+        "projectPath": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE\\MOVIE.csproj",
         "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE\\obj\\",
+        "outputPath": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -138,11 +138,11 @@
             },
             "Xamarin.Essentials": {
               "target": "Package",
-              "version": "[1.6.1, )"
+              "version": "[1.7.0, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.2012, )"
+              "version": "[5.0.0.2196, )"
             },
             "Xamarin.Forms.BehaviorsPack": {
               "target": "Package",

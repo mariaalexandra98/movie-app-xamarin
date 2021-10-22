@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5NeS5dvxypFzCa1FxlzX/AS9B0GjNeL0RUOiJdThiWQNGuLKYXyJxL4nNPwbhIdBHWI52C7iPdyZGBtI9eeWOA==",
+  "dgSpecHash": "hbkRZ65eAjRBk9+mCR0HQAEfjtMcy6w88vbKapqFccotskK7IylnJs91IPs4XjAe6HlvpB9CuyBtCReG0ix11g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maria\\Desktop\\pdm project final\\movie-app-xamarin\\MOVIE\\MOVIE.iOS\\MOVIE.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Maria\\Desktop\\mare modif\\movie-app-xamarin\\MOVIE\\MOVIE.iOS\\MOVIE.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maria\\.nuget\\packages\\acr.support\\2.1.0\\acr.support.2.1.0.nupkg.sha512",
     "C:\\Users\\Maria\\.nuget\\packages\\acr.userdialogs\\6.2.4\\acr.userdialogs.6.2.4.nupkg.sha512",
@@ -23,8 +23,8 @@
     "C:\\Users\\Maria\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Maria\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\Maria\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Maria\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
     "C:\\Users\\Maria\\.nuget\\packages\\xamarin.forms.behaviorspack\\3.0.0\\xamarin.forms.behaviorspack.3.0.0.nupkg.sha512"
   ],
   "logs": []
