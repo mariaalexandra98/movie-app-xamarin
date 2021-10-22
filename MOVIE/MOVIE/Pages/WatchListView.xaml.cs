@@ -19,7 +19,7 @@ namespace MOVIE.Pages
         public WatchListView()
         {
             InitializeComponent();
-            MessagingCenter.Subscribe<MovieListViewModel, object>(this, "added", async (sender, arg) =>
+            MessagingCenter.Subscribe<MovieListViewModel, object>(this, "added", (sender, arg) =>
             {
                 if(!viewModel.watchList.Contains(arg as Movie))
                 {

@@ -590,6 +590,15 @@ C:\Users\I546091\Courses\Facultate\PDM\MOVIE\MOVIE\MOVIE.Android\obj\Debug\110\s
 C:\Users\I546091\Courses\Facultate\PDM\MOVIE\MOVIE\MOVIE.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\I546091\Courses\Facultate\PDM\MOVIE\MOVIE\MOVIE.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\I546091\Courses\Facultate\PDM\MOVIE\MOVIE\MOVIE.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\MOVIE.Android.dll
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\MOVIE.Android.pdb
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie.apk
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie.aab
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie-Signed.aab
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie-Signed.apk
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie-Signed.apk.idsig
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\MOVIE.dll
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\MOVIE.pdb
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\build.props
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\adb.props
@@ -601,32 +610,20 @@ C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debu
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\2\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\4\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\8\jl\files.cache
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\62\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\63\jl\files.cache
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\69\jl\files.cache
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\70\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\71\jl\files.cache
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\75\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\76\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\77\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\82\jl\files.cache
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\96\jl\files.cache
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\R.txt
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\R.cs.flag
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\MOVIE.Android.csproj.CoreCompileInputs.cache
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\MOVIE.Android.dll
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\MOVIE.Android.pdb
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie.apk
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie.aab
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie-Signed.aab
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie-Signed.apk
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\com.companyname.movie-Signed.apk.idsig
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\MOVIE.dll
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\bin\Debug\MOVIE.pdb
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\62\jl\files.cache
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\69\jl\files.cache
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\70\jl\files.cache
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\75\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\83\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\87\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\93\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\95\jl\files.cache
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\96\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\97\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\98\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\99\jl\files.cache
@@ -638,6 +635,9 @@ C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debu
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\106\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\107\jl\files.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\lp\112\jl\files.cache
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\R.txt
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\R.cs.flag
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\MOVIE.Android.csproj.CoreCompileInputs.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\MOVIE.Android.csproj.CopyComplete
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\MOVIE.Android.dll
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\MOVIE.Android.pdb
@@ -866,9 +866,9 @@ C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debu
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\androidx\jl\8f7ef23e-d50a-4597-9066-b0424490e282.jar
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\androidx\jl\b7c9fdf9-1bf1-451b-8fd0-4a8f2209ab29.jar
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\stamp\_AndroidXJetifyJavaLibraryRules.stamp
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\androidx\proguard\1aa1f846-17df-4687-9889-7b1c49d8ef74.cfg
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\androidx\proguard\40b25635-354b-4a4f-bb97-3c4db17ec406.cfg
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\stamp\_AndroidXJetifyProguardRules.stamp
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\androidx\_AndroidXJetifyProguardRules.jetify
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.Android\obj\Debug\110\stamp\_AndroidXCecilfy.stamp

@@ -46,6 +46,7 @@ C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\bin\Debug\netsta
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\bin\Debug\netstandard2.0\MOVIE.dll
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\bin\Debug\netstandard2.0\ref\MOVIE.dll
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\bin\Debug\netstandard2.0\MOVIE.pdb
+C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\obj\Debug\netstandard2.0\MOVIE.csproj.AssemblyReference.cache
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\obj\Debug\netstandard2.0\MOVIE.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
@@ -63,4 +64,3 @@ C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\obj\Debug\netsta
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\obj\Debug\netstandard2.0\MOVIE.dll
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\obj\Debug\netstandard2.0\ref\MOVIE.dll
 C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\obj\Debug\netstandard2.0\MOVIE.pdb
-C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\obj\Debug\netstandard2.0\MOVIE.csproj.AssemblyReference.cache
