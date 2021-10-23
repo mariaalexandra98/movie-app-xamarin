@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-10-22T20:55:22.609</Modified>
+      <Modified>2021-10-23T14:39:01.677</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.UWP\bin\x86\Debug\MOVIE.UWP.exe">
       <PackagePath>entrypoint\MOVIE.UWP.exe</PackagePath>
-      <Modified>2021-10-22T20:55:20.808</Modified>
+      <Modified>2021-10-23T14:38:59.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\.nuget\packages\acr.userdialogs\6.2.4\lib\uap10.0\Acr.UserDialogs.Interface.dll">
       <PackagePath>Acr.UserDialogs.Interface.dll</PackagePath>
@@ -160,7 +160,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE\bin\Debug\netstandard2.0\MOVIE.dll">
       <PackagePath>MOVIE.dll</PackagePath>
-      <Modified>2021-10-22T20:55:15.609</Modified>
+      <Modified>2021-10-23T15:18:44.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -355,15 +355,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.UWP\bin\x86\Debug\MOVIE.UWP.xr.xml">
       <PackagePath>MOVIE.UWP.xr.xml</PackagePath>
-      <Modified>2021-10-22T17:50:52.508</Modified>
+      <Modified>2021-10-23T14:38:59.507</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-10-22T20:55:20.750</Modified>
+      <Modified>2021-10-23T14:38:59.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-10-22T20:55:20.750</Modified>
+      <Modified>2021-10-23T14:38:59.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -379,11 +379,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-10-22T20:55:21.405</Modified>
+      <Modified>2021-10-23T14:39:00.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\mare modif\movie-app-xamarin\MOVIE\MOVIE.UWP\bin\x86\Debug\Core\MOVIE.UWP.exe">
       <PackagePath>MOVIE.UWP.exe</PackagePath>
-      <Modified>2021-10-22T20:55:22.605</Modified>
+      <Modified>2021-10-23T14:39:01.673</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

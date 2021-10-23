@@ -9,7 +9,7 @@
     </ContentPage.Resources>
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Filme preferate" TextColor="DarkBlue" HorizontalTextAlignment="Center" FontSize="Medium"
+            <Label Text="De vazut mai tarziu" TextColor="DarkBlue" HorizontalTextAlignment="Center" FontSize="Medium"
                    HorizontalOptions="FillAndExpand"/>            
                 <ListView HasUnevenRows="True" SeparatorColor="Orange" x:Name="listViewWatchlist" 
                           IsPullToRefreshEnabled="True"

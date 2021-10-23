@@ -4,7 +4,7 @@
              x:Class="MOVIE.Pages.FAQView"
     BackgroundColor="White">
     <StackLayout>
-        <Label Text="Întrebari frecvente"  HorizontalTextAlignment="Center" FontSize="Medium"
+        <Label Text="Intrebari frecvente"  HorizontalTextAlignment="Center" FontSize="Medium"
                    HorizontalOptions="FillAndExpand" Margin="5" TextColor="#152238" />
 
         <CollectionView x:Name="faqCollectionView" 

@@ -7,7 +7,7 @@
         <converters:ImageConverter x:Key="ImageConverter"/>
     </ContentPage.Resources>
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout BackgroundColor="White">
             <Label Text="Filme" TextColor="DarkBlue" HorizontalTextAlignment="Center" FontSize="Medium"
                    HorizontalOptions="FillAndExpand"/>
             <SearchBar x:Name="searchBar" Placeholder="Search by name or genre..." CancelButtonColor="Black" HorizontalOptions="Fill" TextChanged="searchBar_TextChanged"
@@ -31,8 +31,8 @@
                                     <ColumnDefinition Width="Auto"></ColumnDefinition>
                                 </Grid.ColumnDefinitions>
                                 <Image Grid.RowSpan="4" Source="{Binding PosterPath, Converter={StaticResource ImageConverter}}" WidthRequest="120"></Image>
-                                <Label Grid.Column="1" Grid.Row="0" Text="{Binding OriginalTitle}" HorizontalTextAlignment="Center" FontAttributes="Bold"></Label>
-                                <Label Grid.Column="1" Grid.Row="1" Text="{Binding OverviewFormat}"></Label>
+                                <Label Grid.Column="1" Grid.Row="0" Text="{Binding OriginalTitle}" HorizontalTextAlignment="Center" TextColor="OrangeRed" FontAttributes="Bold"></Label>
+                                <Label Grid.Column="1" Grid.Row="1" Text="{Binding OverviewFormat}" TextColor="Black"></Label>
                                 <ImageButton Grid.Column="1" Grid.Row="3"  Grid.ColumnSpan="2" Source="watchlist_button.png" HeightRequest="35" HorizontalOptions="EndAndExpand"
                                       BindingContext="{Binding Source={x:Reference listViewMovies}, Path=BindingContext}"   Command="{Binding AddCommand}"   
                                              CommandParameter="{Binding Source={x:Reference Item}, Path=BindingContext}"        

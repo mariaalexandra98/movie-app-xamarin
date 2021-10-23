@@ -1911,6 +1911,7 @@
         "acr.support.2.1.0.nupkg.sha512",
         "acr.support.nuspec",
         "lib/MonoAndroid10/Acr.Support.Android.dll",
+        "lib/MonoAndroid10/Acr.Support.Android.dll.mdb",
         "lib/MonoAndroid10/Acr.Support.Android.pdb",
         "lib/Xamarin.iOS10/Acr.Support.iOS.dll",
         "lib/Xamarin.tvOS10/Acr.Support.tvOS.dll",
@@ -1928,8 +1929,10 @@
         "acr.userdialogs.6.2.4.nupkg.sha512",
         "acr.userdialogs.nuspec",
         "lib/MonoAndroid10/Acr.UserDialogs.Interface.dll",
+        "lib/MonoAndroid10/Acr.UserDialogs.Interface.dll.mdb",
         "lib/MonoAndroid10/Acr.UserDialogs.Interface.pdb",
         "lib/MonoAndroid10/Acr.UserDialogs.dll",
+        "lib/MonoAndroid10/Acr.UserDialogs.dll.mdb",
         "lib/MonoAndroid10/Acr.UserDialogs.pdb",
         "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll",
         "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll.mdb",
@@ -4147,8 +4150,7 @@
         "monoandroid11.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "monoandroid11.0": {
